@@ -10,5 +10,7 @@ Feature: Get information movie schedule
     When method Get
     Then status 200
 #      And print response
+#      And print response
+#      And print response
 #    And print response.movie[0].date
     And match response == expectedOutput
