@@ -12,5 +12,7 @@ Feature: Get information movie schedule
 #      And print response
 #      And print response
 #      And print response
+#    check conflic2
 #    And print response.movie[0].date
+#    check conflic
     And match response == expectedOutput
