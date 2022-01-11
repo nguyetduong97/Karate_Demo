@@ -1,4 +1,6 @@
 @GetMovieList
+
+#  get information of movie schedule
 Feature: Get information movie schedule
   Background:
     * url 'http://localhost:8080/rest/schedule/'
