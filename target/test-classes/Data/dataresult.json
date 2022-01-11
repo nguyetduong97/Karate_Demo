@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "Test",
+    "lastName": "duong",
+    "email": "demo1@gmail.com",
+    "password": "demo",
+    "joinDate": "Dec 16, 2021, 3:06:30 PM",
+    "token": "e4109405-5efc-48f9-9a80-c53a16ea738f"
+  },
+  {
+    "firstName": "demo2",
+    "lastName": "duong",
+    "email": "demo2@gmail.com",
+    "password": "demo",
+    "joinDate": "Dec 16, 2021, 3:06:30 PM",
+    "token": "94b5e1da-ff5a-4b88-a0c6-c3797b1872c7"
+  }
+]

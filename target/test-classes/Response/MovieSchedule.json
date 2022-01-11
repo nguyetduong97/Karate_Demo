@@ -1,0 +1,4916 @@
+[
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 1",
+    "sessionID": "629bd819-bd6c-4661-9630-5005970892c9"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 2",
+    "sessionID": "c49360a8-f31d-4a14-9291-bb1bf641ac16"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 3",
+    "sessionID": "add19d9d-f348-4b20-a425-b871d89dde15"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 4",
+    "sessionID": "59bcd072-2e79-4842-b6e7-459f34cd6051"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 5",
+    "sessionID": "48953c34-5bb3-4b69-861d-d14d8c3ea248"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 6",
+    "sessionID": "da4c9738-b19e-4350-afcd-82a32e2f5e33"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 7",
+    "sessionID": "e2130656-820e-48be-9f69-da257eda7889"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 8",
+    "sessionID": "33705075-d457-4309-bb65-01a5f152ed8a"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/29",
+    "room": "Cinema 9",
+    "sessionID": "4903726a-6ca7-4082-abde-9f14d2b4433f"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 1",
+    "sessionID": "4491cd05-06bf-4d32-bcad-1f7db9f83197"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 2",
+    "sessionID": "7c4741f7-79c0-483c-be50-1105c1c0a004"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 3",
+    "sessionID": "689ea384-550d-4a7c-a89c-c59b03440803"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 4",
+    "sessionID": "3127e49d-6755-44c4-a5d8-c74c366e0065"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 5",
+    "sessionID": "0294e4c1-7106-4f4e-9fac-7f3cda4f8bb7"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 6",
+    "sessionID": "5f2237f6-1b99-4ee9-bd81-8ca212408d2f"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 7",
+    "sessionID": "331284f0-c464-49ff-a4c4-e625c90626ca"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 8",
+    "sessionID": "1b762112-3fb1-4ac4-a3ac-04f7333b86d0"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/29",
+    "room": "Cinema 9",
+    "sessionID": "ad7d8fec-a2fa-484a-a13e-500df0657f17"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 1",
+    "sessionID": "ca3fd9f2-6f89-4a25-85ac-e8e4471fd359"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 2",
+    "sessionID": "17ea086b-6de9-4bd3-b2e1-48f2c060a539"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 3",
+    "sessionID": "5d7e41ff-e083-4f50-9fce-83ffc4a83f04"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 4",
+    "sessionID": "958873b6-0aa9-4275-a747-fc8d1cf5be1b"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 5",
+    "sessionID": "389363ad-58fa-4973-8971-43f8647c2fb5"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 6",
+    "sessionID": "42536f68-c354-43ab-9193-cd5b85e4a30f"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 7",
+    "sessionID": "b6549f6c-e233-47ed-9b0b-230ef0d08e6f"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 8",
+    "sessionID": "f943d415-0fbc-4843-a217-8c8d7cd0cfee"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/29",
+    "room": "Cinema 9",
+    "sessionID": "d2737b95-9c28-481a-b38d-9f9eaacfea1e"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 1",
+    "sessionID": "7f936598-2077-455a-a322-94664ad57f35"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 2",
+    "sessionID": "2bf24818-4cb4-41b2-99c1-aa2c0492738d"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 3",
+    "sessionID": "0ab0ccb3-bef0-4e81-a15d-d3685de19d67"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 4",
+    "sessionID": "bb79960e-c5a0-4fc5-bc1c-653977a3b052"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 5",
+    "sessionID": "fed6b13e-c5eb-4505-994c-4d73acde09f9"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 6",
+    "sessionID": "aa36d4af-10ee-4b99-b644-f418817e324d"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 7",
+    "sessionID": "7578cdac-ea60-4c64-9f97-9346dc681b64"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 8",
+    "sessionID": "baaad343-dc91-4134-b137-eccea677500f"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/11/30",
+    "room": "Cinema 9",
+    "sessionID": "31bd2542-9085-49b2-b7e8-63a014b42f86"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 1",
+    "sessionID": "99d191d5-2cee-4750-817d-48333fa22070"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 2",
+    "sessionID": "da97bc7a-afe3-418e-9f55-3c6a59d790e5"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 3",
+    "sessionID": "d50c864e-6688-4e47-a5de-7d29b10acaa2"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 4",
+    "sessionID": "bb1c002a-75d4-4a05-a0fd-f5015f3b8044"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 5",
+    "sessionID": "795d0e0c-b48b-429f-bfbe-90b5d4d111bb"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 6",
+    "sessionID": "087d7712-3d6c-46e8-8edc-1e5720de1329"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 7",
+    "sessionID": "eafbf373-8aaa-470e-9509-b55d4844112c"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 8",
+    "sessionID": "3757f6f1-2486-4532-9756-6c3d11199049"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/11/30",
+    "room": "Cinema 9",
+    "sessionID": "de749965-e8be-4dd3-a1ef-c8f926e96a06"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 1",
+    "sessionID": "18c18cef-1acb-43a3-bf8e-c45b3dfee486"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 2",
+    "sessionID": "b3d2467e-84ba-4dc5-baf1-a32fd4022da3"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 3",
+    "sessionID": "3f3ad248-fb5f-40f7-a5ab-74b31fb3ecf5"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 4",
+    "sessionID": "5468befb-6673-41d4-ac63-b84698026bff"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 5",
+    "sessionID": "7976c9fe-2ef8-4795-9c80-bdc602da6e1f"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 6",
+    "sessionID": "ac8f5a2b-38a3-436f-a296-28807df170e4"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 7",
+    "sessionID": "4b5be2da-f015-4c02-a5e8-daf5ec986e87"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 8",
+    "sessionID": "0bb0410d-22cf-443c-9636-08a35bfb3cd9"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/11/30",
+    "room": "Cinema 9",
+    "sessionID": "7a43c2c9-7a29-4179-ac35-3687d0cf2db4"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 1",
+    "sessionID": "0f0661cf-5949-498d-b392-3a1530dfa997"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 2",
+    "sessionID": "aa1db26c-08b9-41e0-a917-38a3b20dfed3"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 3",
+    "sessionID": "ae15587a-f34e-4318-b74d-e867896aceb3"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 4",
+    "sessionID": "1511578e-f0b9-4c6c-ad43-6805d257464b"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 5",
+    "sessionID": "03bc821b-1707-4799-8991-389e208227a6"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 6",
+    "sessionID": "f7945d21-ea67-425c-9f81-46e053a054dc"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 7",
+    "sessionID": "ef200c55-2bc7-4c6e-a2e9-95504a79d6ff"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 8",
+    "sessionID": "6b396170-7480-4a6a-a0e2-c2b3c4c5e236"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/01",
+    "room": "Cinema 9",
+    "sessionID": "cf7f1995-f782-4c2e-969d-324806b10d0c"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 1",
+    "sessionID": "2526a25a-4acb-41f8-8ace-a83282788c5c"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 2",
+    "sessionID": "09bb7400-0f13-46db-bcfb-30f7153bab92"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 3",
+    "sessionID": "4416a7c7-b560-4a50-b978-7286273e9223"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 4",
+    "sessionID": "bb9fa9fc-ce24-41ea-b94c-bcd703a5d81d"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 5",
+    "sessionID": "0920c878-342d-410f-b8a5-774156a54625"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 6",
+    "sessionID": "23c59842-0d4f-49e7-9d21-7a63ef5fa698"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 7",
+    "sessionID": "26827b94-78fc-4043-9c26-15523385c1da"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 8",
+    "sessionID": "d8fe1ba0-b036-4583-903b-41547a6d9e76"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/01",
+    "room": "Cinema 9",
+    "sessionID": "9ecba2fc-5922-4872-a11b-1fec0a28c538"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 1",
+    "sessionID": "a87373ce-d17e-4efb-b6d2-3a1e1404aa94"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 2",
+    "sessionID": "e74f7dd7-a979-4c74-90b7-9737839ab878"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 3",
+    "sessionID": "0e096eed-e4dd-4621-8355-cc1e62c046e4"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 4",
+    "sessionID": "38cc604a-e580-4637-8bd8-39b285739195"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 5",
+    "sessionID": "d0135465-fc78-4672-8f3e-781dc1238ae7"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 6",
+    "sessionID": "c5d06623-d1c0-4358-8007-7fc9713010b2"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 7",
+    "sessionID": "31c48dd1-9858-46ad-a47e-dc9a34d4a105"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 8",
+    "sessionID": "087ab171-ba50-4c86-a177-bcc259f133d5"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/01",
+    "room": "Cinema 9",
+    "sessionID": "3f1ffe70-a813-423c-88a0-a7cfc0ae0167"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 1",
+    "sessionID": "abc5ed08-84e8-424c-8b00-cf142bad4901"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 2",
+    "sessionID": "5f4a7f93-a1ff-48f8-90d0-d12213c2e961"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 3",
+    "sessionID": "ab38d785-8269-48a8-8aae-eb8a370d7236"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 4",
+    "sessionID": "add2b79a-1884-4ac5-96ce-090a8c058f4b"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 5",
+    "sessionID": "c1c3c231-f7f0-40bd-a3d4-01ec3998ef7c"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 6",
+    "sessionID": "e0cc820f-02f3-4272-94f5-804bc98f29d5"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 7",
+    "sessionID": "aa29b5c7-aed5-4957-8895-2d194bcc341c"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 8",
+    "sessionID": "9882a272-1c7a-4d02-a3f0-b597fc9281d3"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/01",
+    "room": "Cinema 9",
+    "sessionID": "3995dc5e-b0e3-496c-a2f6-e73f9956c52e"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 1",
+    "sessionID": "c634bfdd-76d3-45ff-8c7b-655f5cc46ef9"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 2",
+    "sessionID": "d39d742d-b3ec-4a2b-a7c4-119c1e333af2"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 3",
+    "sessionID": "f93128f2-13d4-4388-ac3b-c00ae3819373"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 4",
+    "sessionID": "99debcea-e21b-4a36-8cac-b7f3326e6692"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 5",
+    "sessionID": "2d7c914b-2fd2-47a9-9032-20cb14b14357"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 6",
+    "sessionID": "efefb958-36c7-4305-b74a-b1e062ba81cd"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 7",
+    "sessionID": "095e410f-0fa7-4f35-9a16-bc537af1f84b"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 8",
+    "sessionID": "0d7208c9-bf2e-41ac-b562-d4a67a61cb7f"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/01",
+    "room": "Cinema 9",
+    "sessionID": "dfdb708b-cbe9-4cf3-8042-a249dc4be7e7"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 1",
+    "sessionID": "1385afe0-ded7-4f7c-99a2-7f2b154815e3"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 2",
+    "sessionID": "ef9a250b-b6c3-4137-8071-8245352c3c65"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 3",
+    "sessionID": "3d4fa4f3-68d1-4762-b408-fae25b6fbc37"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 4",
+    "sessionID": "dbba5bb6-4bf1-4e9d-9c0e-c5a8e25bc0a3"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 5",
+    "sessionID": "aece844e-f0ce-4cd0-9e53-5bdbb970720e"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 6",
+    "sessionID": "68cdb0cb-3c03-475a-a29c-3c15c7146d36"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 7",
+    "sessionID": "c23ff110-a0b4-4a3c-bf8c-e256a3bfd5e6"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 8",
+    "sessionID": "2af5e3de-f037-465c-baac-56a2fb38b4c7"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/02",
+    "room": "Cinema 9",
+    "sessionID": "82ac1ae0-77e8-44fe-a8d1-e849dd550ca9"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 1",
+    "sessionID": "4ed2eb3f-568c-442e-8be0-c8077eafc554"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 2",
+    "sessionID": "a7da0ad0-028a-4751-9fc6-3f55016df2dd"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 3",
+    "sessionID": "a07f4b70-934d-4b4c-bf00-ae2c726a7027"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 4",
+    "sessionID": "19420e47-3f8e-4112-bdb3-11f3d9eb1056"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 5",
+    "sessionID": "a5fe35c8-8b47-4e56-ba2f-ee155fe006c1"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 6",
+    "sessionID": "9c8ce105-0c96-463c-8335-c3b63dda53a4"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 7",
+    "sessionID": "9ec42878-715c-4013-a358-c117635b1cda"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 8",
+    "sessionID": "5a761722-c82d-47ec-b161-3d30563aab82"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/02",
+    "room": "Cinema 9",
+    "sessionID": "2f44a99a-1fa1-4a21-b5df-f04ea19024cd"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 1",
+    "sessionID": "d0f0a343-d496-4aa3-b51c-5453c147e5a5"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 2",
+    "sessionID": "3180c757-c4b2-4054-921c-0919aef2c665"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 3",
+    "sessionID": "c700c9b6-fb4b-4dfc-8ee1-e24c0effe852"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 4",
+    "sessionID": "a99fd3c5-dc36-4fbd-af25-f3e1e668dcbc"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 5",
+    "sessionID": "6c237be6-e49c-4c8d-9f43-1a0ab8794bfd"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 6",
+    "sessionID": "d4b8db5f-9cd5-4de8-92ad-8d6b731c83d0"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 7",
+    "sessionID": "cadc9888-7d6f-4abf-8a3a-754af49a4858"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 8",
+    "sessionID": "a0f1c15b-537c-4465-b6da-0dae1f548e16"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/02",
+    "room": "Cinema 9",
+    "sessionID": "7b9bc062-c1f0-4a8f-a559-890653f966b9"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 1",
+    "sessionID": "4a651dca-e62f-4aef-a694-de1926407c49"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 2",
+    "sessionID": "b05ecd9b-da92-435b-baa8-c9facfcb610b"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 3",
+    "sessionID": "e89ea541-baf2-4786-b36a-a8eee9c8975e"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 4",
+    "sessionID": "2c3a3951-0144-425b-aaac-acf12fa11ca6"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 5",
+    "sessionID": "0cca9d23-5533-41bc-b19a-87e5a451a0a9"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 6",
+    "sessionID": "5370b347-cb9e-4a5e-902d-becf94f28ca6"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 7",
+    "sessionID": "e386180d-defe-489f-9a62-f62256cd26f4"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 8",
+    "sessionID": "911be855-2fa7-471e-b412-53cd8399e7c8"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/02",
+    "room": "Cinema 9",
+    "sessionID": "884057e9-9b9e-4fe4-b6d7-8a186507d2c6"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 1",
+    "sessionID": "4e9601aa-c7b8-4bed-a703-219b1429e092"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 2",
+    "sessionID": "9f333df4-9f51-40ff-9402-4c683399edd8"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 3",
+    "sessionID": "9124c8fa-a11a-4fe1-8a2a-0790b551e529"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 4",
+    "sessionID": "96652a1f-1fae-4ce4-9793-9fcadfba4214"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 5",
+    "sessionID": "cec6741c-8881-4d4a-a142-a09b1b24d943"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 6",
+    "sessionID": "b446f877-b192-4fea-994d-40abb9f99cfd"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 7",
+    "sessionID": "562cff0c-f399-4d51-87ea-4d3bda14cdff"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 8",
+    "sessionID": "e7ec8f5f-884e-4243-9f7a-4c4d4121249f"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/02",
+    "room": "Cinema 9",
+    "sessionID": "733ad675-1196-4f38-b018-ad1182b11823"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 1",
+    "sessionID": "6e51fe3c-c880-4137-a710-4975e2b4cf33"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 2",
+    "sessionID": "8f226b40-28e5-47a2-957f-455f4b5e6be9"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 3",
+    "sessionID": "556df8b6-2424-4216-8197-60533357bd18"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 4",
+    "sessionID": "3bb95fe4-8787-4b4a-8696-60b0d5f31b61"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 5",
+    "sessionID": "f40f5e55-7574-4d82-88dd-8c07959f9338"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 6",
+    "sessionID": "0b017685-0f64-4cb3-9eb6-ff24145fc0c5"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 7",
+    "sessionID": "24a0bdb6-97dc-4d83-8836-3ee11e7a62e2"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 8",
+    "sessionID": "7cafe285-138e-4a40-bcf8-4db056a5503a"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/02",
+    "room": "Cinema 9",
+    "sessionID": "e1e7e4cf-f5d4-4abd-81e0-4a6a955f0b17"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 1",
+    "sessionID": "178f8200-5019-4f67-867b-cdd5cb074e8f"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 2",
+    "sessionID": "4e9c2238-88d8-4d53-b27c-fe3e2762caea"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 3",
+    "sessionID": "9470a901-d1fe-4769-84b7-231e15758c5e"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 4",
+    "sessionID": "08580510-71ad-4859-ae24-2796296a2fed"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 5",
+    "sessionID": "0102a147-6a60-45c2-870e-25931bf139d0"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 6",
+    "sessionID": "bcbeae0a-b753-4cfa-b81e-ffca3f369caf"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 7",
+    "sessionID": "325a6725-1388-4a66-94af-1a99d4718bff"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 8",
+    "sessionID": "c56c62cf-47eb-4f58-8213-9db94951f8f3"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/02",
+    "room": "Cinema 9",
+    "sessionID": "cb31c852-d72d-493c-b953-eb4095613e84"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 1",
+    "sessionID": "f94120fe-aba2-420b-8713-bc9eaf747aeb"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 2",
+    "sessionID": "4a117e0b-97cc-4b1a-acee-7d6d61dbc804"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 3",
+    "sessionID": "f0e41529-0e51-4d1a-9649-db76ee3deefc"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 4",
+    "sessionID": "d8771d46-feb2-4c6e-a0f9-819176529feb"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 5",
+    "sessionID": "f56f80d1-ba53-4221-ad68-e37656ed3fb2"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 6",
+    "sessionID": "c420b169-6af8-4968-b4d1-39f0a9946e1d"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 7",
+    "sessionID": "619b3f4a-f0d0-4796-aac7-4f263186f466"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 8",
+    "sessionID": "92f35ef2-b06a-4d07-8043-d41aba265db6"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/03",
+    "room": "Cinema 9",
+    "sessionID": "42ebbdeb-e4cd-4a05-9dd2-8ce02bba8b22"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 1",
+    "sessionID": "744fa603-d6b7-432e-bd29-359a68249139"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 2",
+    "sessionID": "b2f751c2-5c8e-4b07-8235-80397cd088a5"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 3",
+    "sessionID": "7f1961f8-403e-4c49-8e74-1d15b322df04"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 4",
+    "sessionID": "2b3fb3ad-bba3-4247-81ba-be957918dd4b"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 5",
+    "sessionID": "4b154a49-a950-49d1-924d-92be1a3ed1d0"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 6",
+    "sessionID": "d18233d8-69d3-408b-91b0-410962d37cce"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 7",
+    "sessionID": "d19a7032-7500-4e5c-a8d1-e5a38be61a98"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 8",
+    "sessionID": "49d67dbc-7184-4b17-abcd-53209d96cbf6"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/03",
+    "room": "Cinema 9",
+    "sessionID": "10f405ff-ba2a-4c01-aa39-c26828493e89"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 1",
+    "sessionID": "4b5a9d41-12f0-4b9b-ab1c-b89d5a7f35e6"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 2",
+    "sessionID": "eaddd34d-c2ae-4825-98ee-12b4097d63d1"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 3",
+    "sessionID": "123cb96b-0497-47ec-8b3b-ee39025c06ff"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 4",
+    "sessionID": "67c9e782-9f63-487d-87b2-8effddbebded"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 5",
+    "sessionID": "f0eb52db-7b03-4a7f-8d54-b1b02145ce39"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 6",
+    "sessionID": "6d18e368-a43e-45c3-96b4-97fbb1fde9e0"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 7",
+    "sessionID": "03260a4e-5d7f-4905-a47a-79199a74b90f"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 8",
+    "sessionID": "ba1d1181-18b1-4cda-88e7-6108a85c965b"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/03",
+    "room": "Cinema 9",
+    "sessionID": "2cb29bc2-3047-4043-8ed8-9ab2f4ceb1e6"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 1",
+    "sessionID": "d85c10bd-689d-4866-8751-75dc9528d432"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 2",
+    "sessionID": "3d08a002-6e96-41fc-9f5e-09d06e200e98"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 3",
+    "sessionID": "4acef8e9-e898-4ec5-bb31-20fd3be952ae"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 4",
+    "sessionID": "0288edb5-df51-400e-bddb-fcc7f74fa2cf"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 5",
+    "sessionID": "d69aaab2-e5d2-4545-bd6d-0744f95d6261"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 6",
+    "sessionID": "9c8d7980-fab7-4d69-8ad0-132723c7888a"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 7",
+    "sessionID": "2f21babe-0173-44bb-b874-392613d68cdf"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 8",
+    "sessionID": "e8e2f41a-d054-46b1-b6d0-7eeffa0e9f02"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/03",
+    "room": "Cinema 9",
+    "sessionID": "f00ad121-3df6-41ab-93ef-aa14ada0960a"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 1",
+    "sessionID": "8d0c24d5-6776-444e-9a5e-e4998be7491c"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 2",
+    "sessionID": "174cb2a0-3f2f-49ce-8a3f-a41b971ca4a6"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 3",
+    "sessionID": "89f3f8d9-c5c3-4094-b7ac-bac214446be8"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 4",
+    "sessionID": "49e55c66-345c-4100-9590-8ed25a186614"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 5",
+    "sessionID": "6084e138-1153-4dc7-b207-5e0b37f79e02"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 6",
+    "sessionID": "f3259206-eec9-4d16-821c-aa702f980edf"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 7",
+    "sessionID": "3c561e37-e3d4-499c-9fe5-3865f6a3ac45"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 8",
+    "sessionID": "79d7fbf2-8df7-4d0d-844e-2525662ee178"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/03",
+    "room": "Cinema 9",
+    "sessionID": "4ae62afb-332e-45c6-8ea7-f114ff6f4f7f"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 1",
+    "sessionID": "c33d1c7e-66af-4a98-96f1-405f49889852"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 2",
+    "sessionID": "573c64a5-6b8d-45fe-8761-48428bbca097"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 3",
+    "sessionID": "f07905ea-0893-4349-894c-0f0087ecc58d"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 4",
+    "sessionID": "f9f8b542-04df-451d-b8f8-490261f3da16"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 5",
+    "sessionID": "8d872429-34d9-460a-9ae3-aff83b32b311"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 6",
+    "sessionID": "1d10b2a4-0178-4648-b2b7-616c49fc5380"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 7",
+    "sessionID": "ac909964-aefd-4904-a1bc-26866ced804d"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 8",
+    "sessionID": "fa8fe956-e53e-4a86-90d8-f13e30c806c3"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/03",
+    "room": "Cinema 9",
+    "sessionID": "8149e686-8827-498e-8d21-1a2a51ca5e75"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 1",
+    "sessionID": "3e18b5e9-8524-4075-9b3c-f0f7a17fd4c5"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 2",
+    "sessionID": "54d4715a-9321-49d9-bf87-f5f7d39d53e4"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 3",
+    "sessionID": "d6a348f7-b53b-4a14-97d8-98d1a14edc0b"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 4",
+    "sessionID": "af250785-396a-4e2e-8c90-20e75ccf9e52"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 5",
+    "sessionID": "5d9dfa54-d59a-46a4-a49a-47b8f9e229f6"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 6",
+    "sessionID": "490a206e-762a-4aa3-866e-14bd1ff034b9"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 7",
+    "sessionID": "9bac946e-0459-4186-851f-182b66fd504a"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 8",
+    "sessionID": "7640649d-23f4-4a89-97e5-1cecb6867921"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/03",
+    "room": "Cinema 9",
+    "sessionID": "8baa6e74-d644-49b4-a732-901c48283b15"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 1",
+    "sessionID": "622747d3-7fe1-427a-bb11-b9d6b6b0b918"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 2",
+    "sessionID": "028e6915-7144-4f3e-8271-778434c6b898"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 3",
+    "sessionID": "0a5b8a4b-3f5b-42ce-8af1-53a1e4ebe7b5"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 4",
+    "sessionID": "982fe544-2d97-4332-b829-8ca70806b991"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 5",
+    "sessionID": "c7a80651-3b13-41aa-905e-4ffdda9a4357"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 6",
+    "sessionID": "ade7199c-64c3-4429-b788-10fa4e0e89fd"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 7",
+    "sessionID": "c2076e2f-1889-4abd-a2b8-ee7a808f5823"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 8",
+    "sessionID": "5565090a-bf37-4fb5-b8ad-5afa588432f9"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/04",
+    "room": "Cinema 9",
+    "sessionID": "afcd3dce-77b5-411f-84a2-0f0dcfb2a205"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 1",
+    "sessionID": "ee97e317-ca9a-4ed7-81e9-d46147744750"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 2",
+    "sessionID": "ba8c2bff-cad5-40d4-ac4c-cb08024e2829"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 3",
+    "sessionID": "cd9b7959-4bb1-4ca0-996f-0ba8778c315c"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 4",
+    "sessionID": "790dc695-f56d-4666-8640-004f70155e3e"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 5",
+    "sessionID": "a7086a41-2991-4962-a42e-c5a5fc643195"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 6",
+    "sessionID": "63793372-72c9-47cd-a495-54e5cb2db40f"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 7",
+    "sessionID": "e941520a-c656-413a-9f19-d22754dd0021"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 8",
+    "sessionID": "d426c783-5358-493b-80cd-773a34e56a75"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/04",
+    "room": "Cinema 9",
+    "sessionID": "33880052-cce7-4074-980f-267d4a87ad32"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 1",
+    "sessionID": "65d01b20-f99f-45d8-a8b7-3926934ed61d"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 2",
+    "sessionID": "588a3b9a-3a83-4ea1-a38a-f19c10370cb9"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 3",
+    "sessionID": "f28c52d7-4c37-4258-8086-345db38b95f6"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 4",
+    "sessionID": "0587c5b8-0f67-4be5-ba20-cb46d82ba3c6"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 5",
+    "sessionID": "92c0bb78-2c3e-4aee-91f7-fcc998974882"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 6",
+    "sessionID": "8fae7e2a-09b6-4358-97ab-9f104197a404"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 7",
+    "sessionID": "22b644cd-2a40-41a3-bb5b-02eb94fae5d5"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 8",
+    "sessionID": "f9327781-9d9c-4d62-ae87-5d32c2c5bae2"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/04",
+    "room": "Cinema 9",
+    "sessionID": "ce583c88-d96c-4a22-b5bd-7ca24c8efe01"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 1",
+    "sessionID": "c587bd31-b760-493d-b20b-de5d9b08b1d2"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 2",
+    "sessionID": "a0a48a49-1205-46ca-8ce9-f9ec3b490703"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 3",
+    "sessionID": "b679675a-dfa6-4cc2-926a-c66e54143212"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 4",
+    "sessionID": "b8268290-76d1-4c39-8ffd-f18bccaa968d"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 5",
+    "sessionID": "84444c1d-21ee-437d-8bf9-74c2bff56b12"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 6",
+    "sessionID": "35fe33bf-4211-4ce3-a744-69aafd1b6ac3"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 7",
+    "sessionID": "74b7545b-1dd8-4b50-b4e7-6eafb52ccfec"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 8",
+    "sessionID": "407cdd50-2262-4529-bfb1-39bd13342b22"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/04",
+    "room": "Cinema 9",
+    "sessionID": "c03f19c7-2e2a-4a4a-88eb-1fd768a670bc"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 1",
+    "sessionID": "535c91bc-3dcf-464a-b740-6891ede9c981"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 2",
+    "sessionID": "eac02263-16e0-406a-9eb9-0bc8f2532753"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 3",
+    "sessionID": "268e046b-9b3c-4331-beea-7595ccfa0637"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 4",
+    "sessionID": "2732af61-8b74-4675-9ff0-2c6509f3f65f"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 5",
+    "sessionID": "11d86a1b-ccf7-41f1-b06f-6f1e7e6eeaa9"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 6",
+    "sessionID": "9dc2377c-ac47-4dc9-852d-19e5ad14ca6f"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 7",
+    "sessionID": "50b3502a-e57d-4a8b-9797-29883eddadcc"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 8",
+    "sessionID": "9fae3c8d-0bf0-4937-9386-5e83962c7a1f"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/04",
+    "room": "Cinema 9",
+    "sessionID": "292a672d-6cc8-4ec8-851a-df8bdb59e765"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 1",
+    "sessionID": "1c3aee86-b36e-4718-afe5-79bff172a0bf"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 2",
+    "sessionID": "dfc0a8d1-51dc-45e2-8ef1-032804440c65"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 3",
+    "sessionID": "4c037ff2-73d4-4191-a1ec-f913845eba71"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 4",
+    "sessionID": "95d7be39-a990-4166-868a-8d5a7fae2144"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 5",
+    "sessionID": "229a66bc-2986-40b7-b626-1055cd47fd93"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 6",
+    "sessionID": "91913b16-bd19-49be-a578-57014dad0ac7"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 7",
+    "sessionID": "c9d02143-c616-497a-811a-1f6a1323ce2d"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 8",
+    "sessionID": "f45495d6-165c-43a2-a55e-e549218e85ce"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/04",
+    "room": "Cinema 9",
+    "sessionID": "ed77dc64-7644-4442-8d8c-23bd0efc775d"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 1",
+    "sessionID": "224089ba-9928-424b-b2cd-2adf74d10e2a"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 2",
+    "sessionID": "5933b3fb-b810-44d6-bb9e-16a5173412a0"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 3",
+    "sessionID": "9a7228da-2fcf-4145-bc2b-039deb5701db"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 4",
+    "sessionID": "87361f10-cd61-44f0-b47d-dd3a37a942c2"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 5",
+    "sessionID": "600858fb-c08e-48f5-986b-a9432e652bbf"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 6",
+    "sessionID": "3e881289-7404-432d-a424-3804735df534"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 7",
+    "sessionID": "d5ba56be-9226-482a-bd0d-d20b0d8b1b66"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 8",
+    "sessionID": "91e8078f-c7f3-4a0e-b909-831920c237aa"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/04",
+    "room": "Cinema 9",
+    "sessionID": "219926d1-f267-4db3-8685-147f667eea20"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 1",
+    "sessionID": "76cbaf0c-4cc7-4b2c-8339-28473eebb68c"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 2",
+    "sessionID": "ce9db604-9b88-4a44-b1d2-841da70b4904"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 3",
+    "sessionID": "27583638-79e5-48c6-b716-4dfb010c7e9f"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 4",
+    "sessionID": "46971b04-ec09-4a5b-8546-e77c53760693"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 5",
+    "sessionID": "0eb57f42-655b-4482-8c68-4e56f57bccfc"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 6",
+    "sessionID": "b446419a-be1f-4023-ac07-7a02fc22be45"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 7",
+    "sessionID": "709ae6b2-43d5-4b71-8b9d-deaa8329211c"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 8",
+    "sessionID": "6ff53fd9-b14a-484d-8097-c0438a09867a"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 1,
+    "date": "2021/12/05",
+    "room": "Cinema 9",
+    "sessionID": "c8dc471a-88d7-447b-a574-f6b81a22b341"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 1",
+    "sessionID": "45f64b88-d280-4d85-99b2-5cc83e319741"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 2",
+    "sessionID": "f7e95c8c-9215-4d4a-a391-c7600713c55a"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 3",
+    "sessionID": "a563decf-3f29-4096-a6d1-efe1d0a93bf4"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 4",
+    "sessionID": "ce93a091-bbf9-4478-9904-a298b11a5258"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 5",
+    "sessionID": "c938316e-8a87-42ff-aa06-1ae6a96d5f6b"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 6",
+    "sessionID": "213a49cf-61e0-4adb-ba81-9716c7f46410"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 7",
+    "sessionID": "44e5e9ef-7f7b-4279-9caf-69f230fd641c"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 8",
+    "sessionID": "a7606f0a-d641-4313-9e02-946a606ded09"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 7,
+    "date": "2021/12/05",
+    "room": "Cinema 9",
+    "sessionID": "7e2b914a-aba5-494a-b288-11e85e80d994"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 1",
+    "sessionID": "e8237b5a-2268-4130-9e73-0d80bc462218"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 2",
+    "sessionID": "43a05f78-6e34-4155-b0ab-cd960b5b639a"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 3",
+    "sessionID": "e6d93a07-afa3-4c02-a03a-0e3543f41a61"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 4",
+    "sessionID": "2b216015-98bb-4593-8731-b5d9b070463b"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 5",
+    "sessionID": "b0602322-33ea-4380-a27d-29069b35783d"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 6",
+    "sessionID": "b77dce47-9e88-4385-adea-a2262caa8db0"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 7",
+    "sessionID": "99c4b696-1176-48bd-8050-f19b95005e90"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 8",
+    "sessionID": "37ee22f6-2c98-4583-bbbf-eefe6e0e9fe2"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 10,
+    "date": "2021/12/05",
+    "room": "Cinema 9",
+    "sessionID": "b0d8dd4d-776f-4db8-83bb-056792776249"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 1",
+    "sessionID": "724f5b21-345c-4fe2-9314-171b5d8328cb"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 2",
+    "sessionID": "49a2a22b-3d66-49e3-862d-2b96f76e52d2"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 3",
+    "sessionID": "e34b6f4f-8a86-4220-9fe1-9419f93e8d36"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 4",
+    "sessionID": "0cf8c718-3020-42ce-bfe0-0ba79e99a401"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 5",
+    "sessionID": "1f588b34-0a2a-4abc-86cb-e72e623ac749"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 6",
+    "sessionID": "44d8c2d7-3973-46b2-9ab2-4fc8dc23734a"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 7",
+    "sessionID": "3727dc1f-a5f7-4190-afe8-b496b462dbfa"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 8",
+    "sessionID": "3e7a03f1-e81e-48ab-9ab2-80a88c0d2c1e"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 13,
+    "date": "2021/12/05",
+    "room": "Cinema 9",
+    "sessionID": "231ec5f7-b96f-4406-95f2-541ae6d3e30a"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 1",
+    "sessionID": "ed737bce-9c51-4f95-92c6-cd4d41ba5258"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 2",
+    "sessionID": "47578b0f-34ba-4dfb-904b-ba215a300335"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 3",
+    "sessionID": "0ac5d09c-2f4f-4c62-9baa-07f4e5451c81"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 4",
+    "sessionID": "b17cc491-4833-42d2-9bd6-d7d4c41fe8b5"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 5",
+    "sessionID": "30891999-0a20-4405-974b-d1a9cab3c74c"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 6",
+    "sessionID": "f0067a2a-9414-4b28-b46c-e214d619f533"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 7",
+    "sessionID": "5cbc6f4e-1e41-41e2-80d7-64429f615188"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 8",
+    "sessionID": "3b6f910d-3bb9-48bc-bb5f-a677aab86bf7"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 16,
+    "date": "2021/12/05",
+    "room": "Cinema 9",
+    "sessionID": "ea3b015f-5d95-422a-be11-3e12e943bf7e"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 1",
+    "sessionID": "b3d4ba23-91f3-4a02-b465-6435493e6afc"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 2",
+    "sessionID": "cc2ad2c0-4fda-48bd-978e-f6e0edabbf46"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 3",
+    "sessionID": "3af55c0e-fada-4737-b090-7d54087389f7"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 4",
+    "sessionID": "b4857161-7670-49f9-89cb-599d62d2bad5"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 5",
+    "sessionID": "eb419041-db64-4d12-9b99-831f46e6034c"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 6",
+    "sessionID": "401c31bb-9d3a-4a89-9622-c2da58b37505"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 7",
+    "sessionID": "446819df-ebd6-4117-9b51-7c674eddf75d"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 8",
+    "sessionID": "06367417-af60-4ad0-88a7-ef7fef671fa0"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 19,
+    "date": "2021/12/05",
+    "room": "Cinema 9",
+    "sessionID": "00d25acb-2402-497f-a22e-32a0fc145af1"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",
+    "room": "Cinema 1",
+    "sessionID": "04a4e371-582f-4f04-b0f6-300c9b43e77d"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",
+    "room": "Cinema 2",
+    "sessionID": "d67409da-8681-488f-9b88-9cec0166eb7b"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",  2021\/12\/05
+    "room": "Cinema 3",
+    "sessionID": "02459378-6bea-4711-b846-8703bfb23389"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",
+    "room": "Cinema 4",
+    "sessionID": "fbeb0bf3-07f7-4524-8086-08bafce6c695"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",
+    "room": "Cinema 5",
+    "sessionID": "35e4d940-7ddd-4666-a50b-797941e0cb03"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",
+    "room": "Cinema 6",
+    "sessionID": "2aa9160d-8dfe-4383-a6db-76dee3c85c4e"
+  },
+  {
+    "movie": {
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "director": "Victor Vũ",
+      "actors": "Thịnh Vinh, Trọng Khang, Thanh Mỹ",
+      "type": "Tâm Lý, Gia đình",
+      "time": "96 phút",
+      "language": "Tiếng Việt và phụ đề tiếng Anh"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",
+    "room": "Cinema 7",
+    "sessionID": "c91b2d68-91f3-4831-9fa2-fddd0cda8c9b"
+  },
+  {
+    "movie": {
+      "name": "Pan Và Vùng Đất Neverland",
+      "director": "Joe Wright",
+      "actors": "Hugh Jackman, Levi Miller, Jimmy Vee",
+      "type": "Hành Động, KH Viễn Tưởng",
+      "time": "111 phút",
+      "language": "Tiếng Anh với phụ đề và lồng tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",
+    "room": "Cinema 8",
+    "sessionID": "6733305f-0ff9-4695-8232-2b881b079950"
+  },
+  {
+    "movie": {
+      "name": "Khách Sạn Huyền Bí 2",
+      "director": "Genndy Tartakovsky",
+      "actors": "Adam Sandler, Selena Gomez, Steve Buscemi",
+      "type": "Hoạt Hình, Hài",
+      "time": "95 phút",
+      "language": "Tiếng Anh với lồng tiếng và phụ đề tiếng Việt"
+    },
+    "showtime": 22,
+    "date": "2021/12/05",
+    "room": "Cinema 9",
+    "sessionID": "90710bca-666b-4b43-a63f-ac65d21d0dfb"
+  }
+]
