@@ -1,6 +1,6 @@
 @GetMovieList
 
-#  get information of movie schedule
+
 Feature: Get information movie schedule
   Background:
     * url 'http://localhost:8080/rest/schedule/'
@@ -12,5 +12,10 @@ Feature: Get information movie schedule
 #      And print response
 #      And print response
 #      And print response
+#    check conflic2
 #    And print response.movie[0].date
+#    check conflic
     And match response == expectedOutput
+
+
+#    command 
