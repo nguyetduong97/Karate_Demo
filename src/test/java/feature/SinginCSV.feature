@@ -43,4 +43,6 @@ Feature: Signin account with input by csv file
 #      And match response.email == params.email
 #      And match response.password == params.password
 #      And match response.token == '#notnull'
+#  comment git
+#  command raw 2 
 
